@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Parcial 4 - Programacion</string>
+    <string name="result_text">Resultado: %d</string>
+    <string name="error_invalid_numbers">Por favor ingrese números válidos</string>
+    <string name="error_divide_by_zero">No se puede dividir por cero</string>
+</resources>
